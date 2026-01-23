@@ -1,4 +1,4 @@
-반갑습니다! 이 저장소는 데이터 분석 오답 노트의 실습을 위한 데이터셋을 제공합니다.  
+안녕하세요. 이 저장소는 데이터 분석 오답 노트의 실습을 위한 데이터셋을 제공합니다.  
 책의 예제 코드를 직접 따라하며 데이터 분석을 익혀보세요.
 
 
@@ -27,4 +27,3 @@ GitHub 계정이 없어도 누구나 간편하게 받을 수 있습니다.
 ```bash
 git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
 
----
