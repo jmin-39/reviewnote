@@ -20,6 +20,7 @@ git clone [https://github.com/username/repository-name.git](https://github.com/u
 
 
 ## 💡 실습 전 확인 사항
+
 - 데이터 형식: 모든 실습 데이터는 CSV 형식으로 제공됩니다.
 
 - 인코딩 안내: 한글 깨짐 방지를 위해 UTF-8 형식을 권장합니다. (Excel에서 열 때 주의하세요!)
