@@ -49,4 +49,3 @@ GitHub 계정이 없어도 누구나 간편하게 받을 수 있습니다.
 ```bash
 git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
 
----
