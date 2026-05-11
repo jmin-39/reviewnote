@@ -50,10 +50,3 @@ GitHub 계정이 없어도 누구나 간편하게 받을 수 있습니다.
 git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
 
 ---
-### 🚀 함께 학습해보세요!
-
-『데이터 분석 오답 노트』는 단순한 도구 사용법이 아니라,
-실무에서 데이터를 어떻게 바라보고 활용해야 하는지에 대한 사고 과정을 담고 있습니다.
-
-이 저장소가 데이터 분석을 공부하는 분들에게
-작은 실전 가이드가 되기를 바랍니다.
