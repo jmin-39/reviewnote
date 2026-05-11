@@ -18,9 +18,9 @@
 
 <p align="center">
   📚 구매 링크<br><br>
-  <a href="https://lnkd.in/e6E6UXB9">Yes24</a> ·
-  <a href="https://lnkd.in/esi8cvP7">교보문고</a> ·
-  <a href="https://lnkd.in/evqtzBFi">알라딘</a>
+  <a href="https://www.yes24.com/product/goods/189238126">Yes24</a> ·
+  <a href="https://product.kyobobook.co.kr/detail/S000219930257">교보문고</a> ·
+  <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392629243&srsltid=AfmBOoo9tj8AHgH7_jeXxPlISQuRm4Lk3l4U-kEB1D7XYmtXoJ13LE13">알라딘</a>
 </p>
 ---
 
