@@ -17,12 +17,12 @@
 ### 👩‍💻 **저자**: 주정민, 허현
 
 <p align="center">
-  📚 구매 링크<br><br>
+  <b>📚 구매 링크</b><br><br>
   <a href="https://www.yes24.com/product/goods/189238126">Yes24</a> ·
   <a href="https://product.kyobobook.co.kr/detail/S000219930257">교보문고</a> ·
   <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392629243&srsltid=AfmBOoo9tj8AHgH7_jeXxPlISQuRm4Lk3l4U-kEB1D7XYmtXoJ13LE13">알라딘</a>
 </p>
----
+
 
 ## 💡 실습 전 확인 사항
 
