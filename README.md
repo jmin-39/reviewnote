@@ -47,5 +47,6 @@ GitHub 계정이 없어도 누구나 간편하게 받을 수 있습니다.
 ### 2️⃣ Git Clone (숙련자용)
 터미널 또는 CMD에서 아래 명령어를 입력하세요.
 ```bash
-git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
+git clone https://github.com/jmin-39/reviewnote.git
+```
 
